@@ -1,15 +1,15 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
+    "name": "Zara Bot v1",
+    "description": "Zara is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "logo": "https://telegra.ph/file/a9013d0e899de1d7b17fb.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "stack": "container",
+    
+
+
+      "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Paste your QR session.",
+            "description": "NEUTRO;;;eyJjbGllbnRJRCI6IlpxZWRqUVdLTUpqb1k1TGpkOEJvdWc9PSIsInNlcnZlclRva2VuIjoiMUB5dlR2bDNXNWhMbTNtS2lrbE9OTUR3NDJIeXE4WFA3TEd6elVUeGN3aVRtbFZHdVZQZ0RvQ2phUjB2V3RtWlBhbFNJUzFiV3ExaU9mdHc9PSIsImNsaWVudFRva2VuIjoiYStmOE9xQk1tV096bUlHL2dCcUkveHpuWHVycHVkT25qQzRzM2FONHpDOD0iLCJlbmNLZXkiOiJ5MWlLMStIRlF3OEs4c0RaMFlydWJTQXVKa256T0xXcjRnRVQ1QU5uOHRRPSIsIm1hY0tleSI6IlRvbFp2QlVvb0tFdjQrOWwrb3lYRU9FazNLT0RJWDhKenJlWE0zRnQrV1E9In0=",
             "required": true
         },
         "SUDO": {
